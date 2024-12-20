@@ -1,0 +1,11 @@
+Model Information:
+* title:	Arcade Machine
+* source:	https://sketchfab.com/3d-models/arcade-machine-18181c82c7ac4226b88dcddaccb0f049
+* author:	barism09 (https://sketchfab.com/barism09)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Arcade Machine" (https://sketchfab.com/3d-models/arcade-machine-18181c82c7ac4226b88dcddaccb0f049) by barism09 (https://sketchfab.com/barism09) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
